@@ -1,0 +1,23 @@
+[
+  {
+    "nama": "Hafif",
+    "nim": "5181011063",
+    "email": "raihanhafif@gmail.com",
+    "jurusan": "Teknik Komputer",
+    "idDosenWali": 1
+  },
+  {
+    "nama": "Gugun",
+    "nim": "5181011084",
+    "email": "gugun25@gmail.com",
+    "jurusan": "Teknik Komputer",
+    "idDosenWali": 2
+  },
+  {
+    "nama": "Wawan",
+    "nim": "5181011089",
+    "email": "wawan17@gmail.com",
+    "jurusan": "Teknik Komputer",
+    "idDosenWali": 3
+  }
+]
